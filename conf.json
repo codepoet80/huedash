@@ -1,6 +1,6 @@
 {
   "devicetype" : "huedash#pi",
-  "username": "Your Hue Hub API username",
-  "ip": "IP Address of your Hue Hub",
-  "yr_url": "/path/to/huedash/varsel.xml"
+  "username": "DWhfcMKpDqnpkQdRo7vmGJ-EPTlbMZctXlTtJj6n",
+  "ip": "lights.home.jonandnic.com",
+  "yr_url": "/home/pi/huedash/varsel.xml"
 }
